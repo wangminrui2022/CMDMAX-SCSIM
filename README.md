@@ -1,8 +1,8 @@
 <br># CMDMAX-SCSIM
 <br>Web3.0 Supply Chain Systems and the Industrial Metaverse
-<br>https://cmdmax.co
-<br>https://cmd3.cc
-<br>https://wwww.cmdmax.com
+<br>cmdmax.ai
+<br>cmdmax.com
+<br>cmdmax.co
 <br>
 <br>1. Introduce
 <br>2. Overview
